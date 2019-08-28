@@ -1,0 +1,25 @@
+#dog-image-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.dogPic{
+    max-width: 50%;
+}
+
+.breed{
+    color: purple;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+#dog-breeds{
+    border-style: solid;
+    border-color: purple;
+}
